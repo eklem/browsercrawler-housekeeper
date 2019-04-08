@@ -1,5 +1,5 @@
 # browsercrawler-housekeeping
-Housekeeping for crawling in the browser aka `browsercrawler`. Keeping track of what has been added to search engine / database, and comparing to page timestamps.
+Housekeeping for crawling in the browser aka [`browsercrawler`](https://github.com/eklem/browsercrawler). Keeping track of what has been added to search engine / database, and comparing to page timestamps.
 
 This is to make browsercrawler and i.e. search-index work well together.
 
