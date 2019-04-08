@@ -1,5 +1,5 @@
-# search-index-housekeeping
-Housekeeping for search-index in the browser. Keeping track of what has been added to indexed when and comparing it to when pages have been updated.
+# browsercrawler-housekeeping
+Housekeeping for crawling in the browser aka `browsercrawler`. Keeping track of what has been added to indexed when and comparing it to when pages have been updated.
 
 This is to make crawler-in-browser and search-index to work well together.
 
